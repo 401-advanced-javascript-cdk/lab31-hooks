@@ -6,9 +6,9 @@ Implements hooks for React functional components to access state, context, and r
 
 ### Links and Resources
 
-- [GitHub PR]( --- )
+- [GitHub PR](https://github.com/401-advanced-javascript-cdk/lab31-hooks/pull/1)
 - [Netlify Deployment](https://7ey5u.csb.dev/)
-- [Travis]( --- )
+- [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab31-hooks)
 
 ### Modules
 
@@ -52,4 +52,4 @@ admin     | ADMIN
 ```
 #### Testing
 
-Tests can be viewed [here]( --- ) or running `npm run test` from a local repository instance.
+Tests can be viewed [here](https://travis-ci.com/401-advanced-javascript-cdk/lab31-hooks) or running `npm run test` from a local repository instance.
